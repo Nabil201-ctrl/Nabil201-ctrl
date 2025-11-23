@@ -11,6 +11,7 @@
   - *Blockchain (Sui) & Compilers*
   - *MLOps: Terraform, Kubernetes, Grafana*
   - *Data Structures and Algorithms*
+  - Getting more rooted in MLOps
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, and reading books.
 <br>
 
