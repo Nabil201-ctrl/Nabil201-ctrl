@@ -8,10 +8,10 @@
 - :school: I'm a 3rd Year CS undergrad
 - ✍🏻 I love using Software as a solution for every Problem
 - 📚 I'm currently learning:
-  - *Blockchain (Sui) & Compilers*
+- Embedded IOT
   - *MLOps: Terraform, Kubernetes, Grafana*
+  - Cloud Infrastructure
   - *Data Structures and Algorithms*
-  - Getting more rooted in MLOps
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, and reading books.
 <br>
 
@@ -83,12 +83,21 @@
 </p>
 <br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center"><b>GitHub 2025 Stats</b></h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nabil201-ctrl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil201-ctrl&theme=tokyonight&layout=compact&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nabil201-ctrl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil201-ctrl&theme=tokyonight&layout=compact&hide_border=true&cache_seconds=86400" height="180em" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil201-ctrl&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160em" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nabil201-ctrl&theme=tokyonight&no-frame=true&no-bg=true&year=2025" />
+</p>
+
 
 ## You can contact me here  
 
