@@ -8,7 +8,7 @@
 - :school: I'm a 3rd Year CS undergrad
 - ✍🏻 I love using Software as a solution for every Problem
 - 📚 I'm currently learning:
-- Embedded IOT
+  - Embedded IOT
   - *MLOps: Terraform, Kubernetes, Grafana*
   - Cloud Infrastructure
   - *Data Structures and Algorithms*
@@ -24,7 +24,7 @@
       <td style="width:50%; vertical-align:top; text-align:left; border:none;">
         <h6><b>Languages & Syntaxes:</b></h6>
         <p>
-          <img src="https://skillicons.dev/icons?i=csharp" alt="C#" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=cs" alt="C#" />&nbsp;
           <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />&nbsp;
           <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />&nbsp;
           <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />&nbsp;
