@@ -24,7 +24,7 @@
       <td style="width:50%; vertical-align:top; text-align:left; border:none;">
         <h6><b>Languages & Syntaxes:</b></h6>
         <p>
-          <img src="https://skillicons.dev/icons?i=c" alt="C" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=csharp" alt="C#" />&nbsp;
           <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />&nbsp;
           <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />&nbsp;
           <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />&nbsp;
