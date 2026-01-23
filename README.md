@@ -86,7 +86,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nabil201-ctrl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1" height="180em" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Nabil201-ctrl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1&v=2025" height="180em" />   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil201-ctrl&theme=tokyonight&layout=compact&hide_border=true" height="180em" />
 </p>
 
