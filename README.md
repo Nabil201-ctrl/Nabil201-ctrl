@@ -9,9 +9,8 @@
 - ✍🏻 I love using Software as a solution for every Problem
 - 📚 I'm currently learning:
   - Embedded IOT
-  - Terraform, Kubernetes, Grafana*
+  - Terraform, Kubernetes
   - Cloud Infrastructure
-  - *Data Structures and Algorithms*
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, and reading books, going for tech events.
 <br>
 
