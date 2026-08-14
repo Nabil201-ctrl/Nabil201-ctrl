@@ -8,7 +8,7 @@
 - I'm a 3rd Year CS undergrad
 - I love using Software as a solution for every Problem
 - I'm currently learning:
-  - Embedded IOT
+  - cummunication, public speaking.
   - Terraform, Kubernetes
   - Cloud Infrastructure
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, and reading books, going for tech events.
